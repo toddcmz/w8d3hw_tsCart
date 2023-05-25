@@ -1,0 +1,17 @@
+{
+  "name": "w8d3_tscart",
+  "version": "1.0.0",
+  "description": "tsCartHomework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "tlc",
+  "license": "MIT",
+  "dependencies": {
+    "@types/uuid": "^9.0.1",
+    "typescript": "^5.0.4",
+    "uuid": "^9.0.0"
+  }
+}
